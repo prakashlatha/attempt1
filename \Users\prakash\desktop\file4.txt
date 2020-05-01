@@ -1,0 +1,10 @@
+#include <stdio.h>int main()
+{
+float num1;
+double num2;
+scan num1;
+scan num2;
+print num1;
+print num2;
+return 0;
+}

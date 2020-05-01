@@ -1,0 +1,12 @@
+#include <stdio.h>int main()
+{
+float num1;
+double num2;
+printf();
+scanf(, &num1);
+printf();
+scanf(, &num2);
+printf(, num1);
+printf(, num2);
+return 0;
+}
