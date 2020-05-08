@@ -1,0 +1,51 @@
+int I;
+I=0;
+ITERATION
+i<n;
+{
+I<n;
+SELECTION
+a<b;
+{
+Int max =a;
+}
+int j;
+j=0;
+ITERATION
+j<n ;
+k<m ;
+I++ ;
+{
+print();
+Int func()
+{
+print();
+Int k=0;
+}
+j++;
+}
+i++;
+}
+#include <stdio.h>int main ()
+{
+char grade ;
+grade = 'B';
+switch(grade)
+{
+case 'A' :
+printf( );
+break;
+case 'B' :
+case 'C' :printf();
+break;
+case 'D' :
+printf();
+break;
+case 'F' :
+printf();
+break;
+default :printf();
+}
+print grade;
+return 0;
+}

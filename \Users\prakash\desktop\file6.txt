@@ -1,0 +1,26 @@
+#include <stdio.h>
+int main ()
+{
+char grade ;
+grade = 'B';
+switch(grade)
+{
+case 'A' :
+print ;
+break;
+case 'B' :
+case 'C' :
+print ;
+break;
+case 'D' :
+print ;
+break;
+case 'F' :
+print ;
+break;
+default :
+print ;
+}
+print grade;
+return 0;
+}
